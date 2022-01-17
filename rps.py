@@ -5,7 +5,7 @@ import random
 #Setting up the 3 options
 CHOICES = ["rock", "paper", "scissors"]
 
-#Establishing all other variables in order to shorten code
+#Establishing result variables in order to shorten code
 loser = "\nYou Lose :("
 winner = "\nYOU WIN!"
 tied = "\nIt's a Tie"
